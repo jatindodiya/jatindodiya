@@ -36,6 +36,10 @@ Redis • Graphile Worker • Webhooks • Chrome Extensions
 - **Docker & Kubernetes** for scalable deployments  
 - **Event-driven architecture** and **background workers**
 
+---
+
+**Habix.in** – A modern **habit tracking system** that helps users build and maintain good habits while simplifying progress tracking and motivation.  
+  Tech stack: **Node.js**, **Express**, **PostgreSQL**, **Tailwind**, and **TypeScript**  
 
 ---
 
